@@ -1,5 +1,12 @@
-# Machine-learning-and-deep-learning-project
+# Machine learning and deep learning project for ECE 196
 More detailed information can be found in the ***"ML/DL Project Report"*** pdf file.
+
+<hr/>
+
+# Contributors
+| Main Author  | Assistant |
+| ------------- | ------------- |
+| Benny Cai  | Stella Zhang  |
 
 <br/>
 
